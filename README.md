@@ -35,8 +35,8 @@ A visual representation of your life in weeks. See how many weeks you've lived a
 ## Inspiration
 This project was inspired by the "Life Calendar" concept - visualizing life in weeks to encourage living intentionally and making the most of our limited time.
 
-## Screenshot on Mobile
-![your-life-in-weeks-ss](https://github.com/user-attachments/assets/0f7ae0ea-a97d-4daf-8f40-530cf1cf630e)
+## Screenshot 
+![Preview](./images/preview.png)
 
 
 
